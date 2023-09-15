@@ -9,7 +9,7 @@ An application that converts images to ASCII art. The executable takes in the fo
 Example: 
 + Running the following command: `./Image-too-ASCII-art --txt ./Marilyn.txt --quant 12 --dir ./Description\ media /marilyn.jpg`
 + The input image:
- *separate paragraph*
+  <br />
  ![alt text](https://github.com/hogfig/Image-too-ASCII-art/blob/main/Description%20media/marilyn.jpg)
 + The output image when ajusting the font size to 1:
  ![alt text](https://github.com/hogfig/Image-too-ASCII-art/blob/main/Description%20media/Marilynq12.png)
