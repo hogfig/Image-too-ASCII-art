@@ -12,8 +12,8 @@ Example:
  *separate paragraph*
  ![alt text](https://github.com/hogfig/Image-too-ASCII-art/blob/main/Description%20media/marilyn.jpg)
 + The output image when ajusting the font size to 1:
- ![alt text](https://github.com/hogfig/Image-too-ASCII-art/blob/main/Description%20media/Merilynq12.png)
+ ![alt text](https://github.com/hogfig/Image-too-ASCII-art/blob/main/Description%20media/Marilynq12.png)
 + The closeup of the ASCII art:
- ![alt text](https://github.com/hogfig/Image-too-ASCII-art/blob/main/Description%20media/Merilynq12-closeup.png)
+ ![alt text](https://github.com/hogfig/Image-too-ASCII-art/blob/main/Description%20media/Marilynq12-closeup.png)
 
 
