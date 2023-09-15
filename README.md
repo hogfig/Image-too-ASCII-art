@@ -5,8 +5,9 @@ An application that converts images to ASCII art. The executable takes in the fo
 + `--dir` -> directory of image (*optional) (if not provided the program accesses the built in camera and takes a foto).
 + `--flip` -> 1 if you want to flip your image over the y-axis (*optional).
 + `--resolution` -> width height of output ASCII img (*optional). (ex. 108 192)
+> Playing with the quantization level and costumizing the characters that represent the intensities of the image can result in beautiful ASCII art!
 
-Example: 
+<br />Example: 
 + Running the following command: `./Image-too-ASCII-art --txt ./Marilyn.txt --quant 12 --dir ./Description\ media /marilyn.jpg`
 + The input image:
   <br />
@@ -15,5 +16,6 @@ Example:
  ![alt text](https://github.com/hogfig/Image-too-ASCII-art/blob/main/Description%20media/Marilynq12.png)
 + The closeup of the ASCII art:
  ![alt text](https://github.com/hogfig/Image-too-ASCII-art/blob/main/Description%20media/Marilynq12-closeup.png)
+
 
 
